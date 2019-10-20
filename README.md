@@ -1,5 +1,5 @@
 # Space-Engineers-Spaceport-Manager
-A Space Engineers Programmable Block Script for automated docking/undocking off ships with advanced features.
+A Space Engineers Programmable Block Script for automated docking/undocking of ships with advanced features.
 
 From Space Engineers Official Steam Page (https://store.steampowered.com/app/244850/Space_Engineers/): "Space Engineers is a sandbox game about engineering, construction, exploration and survival in space and on planets. Players build space ships, space stations, planetary outposts of various sizes and uses, pilot ships and travel through space to explore planets and gather resources to survive." Space Engineers features a programmable block which offers opportunities for automation or ease of life task , which the script(s) here utilize to accomplish their task. These scripts are programmed in C#.
 
